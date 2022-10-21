@@ -20,7 +20,7 @@
 -	**买数据:**
 		行业/公开数据 
 		百万医疗数据等
-		-->vendor: 通联、万得、朝阳永旭；
+		-->vendor: 通联、万得、朝阳永旭；or 团险数据对接->Zeng Zhu
 -	**数据预测->精算评估自动化:**
 		CI 经验分析 -- in progress
 		MM 经验分析 -- to be researched, more data to be collected
